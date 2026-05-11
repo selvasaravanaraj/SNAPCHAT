@@ -55,7 +55,7 @@ export default function App() {
          <div className="text-center space-y-6 w-full">
             <div className="space-y-4 px-2">
                <p className="text-[13px] font-black text-black/90 leading-relaxed italic tracking-tight">
-                 POV: you found my secret corner on Snapchat 👀💛 
+                you found my secret corner on Snapchat 👀💛 
                </p>
                
               
