@@ -84,12 +84,7 @@ export default function App() {
             </motion.a>
          </div>
 
-         {/* Verification Hint */}
-         <div className="flex items-center gap-2 opacity-10">
-            <div className="w-1 h-1 rounded-full bg-black" />
-            <span className="text-[7px] font-black uppercase tracking-[0.5em]">selva_0704 • 10,402</span>
-            <div className="w-1 h-1 rounded-full bg-black" />
-         </div>
+        
       </motion.div>
     </div>
   );
