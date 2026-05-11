@@ -58,19 +58,13 @@ export default function App() {
                  POV: you found my secret corner on Snapchat 👀💛 
                </p>
                
-               <div className="space-y-1">
-                 <p className="text-[10px] font-bold text-black/30 uppercase tracking-[0.2em] leading-tight">
-                   Late night thoughts • random vibes • coding journey • memes & real moments 😌✨
-                 </p>
-               </div>
+              
 
                <p className="text-[14px] font-black text-black italic bg-black/5 py-3 rounded-2xl border border-black/5">
                  👻 “Hi dude… it’s my snap profile”
                </p>
                
-               <p className="text-[11px] font-black text-black/40 tracking-widest uppercase">
-                 💫 Come join the chaos 😂🫶
-               </p>
+               
             </div>
          </div>
 
