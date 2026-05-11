@@ -60,7 +60,7 @@ export default function App() {
 
 
 
-            <p className="text-[14px] font-black text-black italic bg-black/5 py-3 rounded-2xl">
+            <p className="text-[14px] font-black text-black italic bg-black/5 py-3 rounded-2xl border border-black/5">
               👻 “Hi dude… it’s my snap profile”
             </p>
 
@@ -78,7 +78,7 @@ export default function App() {
             className="w-full flex flex-col items-center gap-3 group no-underline"
           >
             <span className="text-black font-black uppercase tracking-[0.4em] text-[12px] group-hover:text-black/60 transition-colors flex items-center gap-3">
-              CLICK HERE <Sparkles size={16} className="text-[#FFFC00] fill-black stroke-black" />
+              ADD FRIEND <Sparkles size={16} className="text-[#FFFC00] fill-black stroke-black" />
             </span>
             <div className="w-8 h-[3px] bg-black rounded-full group-hover:w-24 transition-all duration-700 ease-out" />
           </motion.a>
